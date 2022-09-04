@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "elegant-bombolone-b64b05.netlify.app"
 
 # Change the default theme to be use when building the site with Hugo
 theme = "LoveIt"
