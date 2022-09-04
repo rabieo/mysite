@@ -1,0 +1,17 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>All Posts - Omar Rabie Site</title>
+        <link>http://example.org/posts/</link>
+        <description>All Posts | Omar Rabie Site</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>omarabie.1998@gmail.com (Omar Rabie)</managingEditor>
+            <webMaster>omarabie.1998@gmail.com (Omar Rabie)</webMaster><lastBuildDate>Thu, 01 Sep 2022 20:59:27 -0400</lastBuildDate><atom:link href="http://example.org/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>Coding Questions 1</title>
+    <link>http://example.org/coding-questions-1/</link>
+    <pubDate>Thu, 01 Sep 2022 20:59:27 -0400</pubDate>
+    <author>Omar Rabie</author>
+    <guid>http://example.org/coding-questions-1/</guid>
+    <description><![CDATA[The following questions are taken from Qualcomm Interview Experience 2022
+Question 1 Question 1 A friend of Alex has gifted them a movie collection, and Alex is excited to watch them all as quickly as possible. The duration of the movies is given in array durations[n], where n is the number of movies, and each movie duration lies between 1.01 and 3.00 units of time (up to two decimal places). Every day, Alex wants to spend no more than 3.]]></description>
+</item>
+</channel>
+</rss>
